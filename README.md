@@ -11,4 +11,5 @@ and install as usual
 
 ## List of formulae
 
+- [Normaliz](https://www.normaliz.uni-osnabrueck.de/) - tool for computations in affine monoids, vector configurations, lattice polytopes, and rational cones
 - [TOPCOM](http://www.rambau.wm.uni-bayreuth.de/TOPCOM/) - package for computing Triangulations Of Point Configurations and Oriented Matroids
