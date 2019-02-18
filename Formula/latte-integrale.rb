@@ -1,6 +1,6 @@
 class LatteIntegrale < Formula
-  desc ""
-  homepage ""
+  desc "A computer software dedicated to the problems of counting lattice points and integration inside convex polytopes"
+  homepage "https://www.math.ucdavis.edu/~latte/"
   url "https://github.com/latte-int/latte/releases/download/version_1_7_5/latte-integrale-1.7.5.tar.gz"
   sha256 "75d8472bfff6e7df7c85e050421f1120894c637bb25f1740afaf6bbb6521a765"
   
